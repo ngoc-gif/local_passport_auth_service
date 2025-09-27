@@ -52,7 +52,7 @@ Expected: `Logged out`
 git init
 git add .
 git commit -m "Local passport auth lab"
-git remote add origin https://github.com/<your-username>/local_passport_auth_service
+git remote add origin https://github.com/ngoc-gif/local_passport_auth_service
 git branch -M main
 git push -u origin main
 ```
